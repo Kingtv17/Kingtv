@@ -1,4 +1,4 @@
-o#EXTM3U billed-msg="M3U PLAYLIST BY: KingTV Henyo Things🫶"
+#EXTM3U billed-msg="M3U PLAYLIST BY: KingTV Henyo Things🫶"
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml, https://www.bevy.be/bevyfiles/philippinespremium2.xml, https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml,https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
@@ -105,10 +105,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/d/d2/GMA_7_Logo_2011.png" group-title="KingTV", GMA Manila
 https://nokotan.anhkz.fr/channel/2353eb89/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
-#EXTINF: -1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" group-title="KingTV", GMA I Heart Movies
-https://nokotan.anhkz.fr/channel/582ee6b4/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
-#EXTINF: -1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" tvg-logo-small="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" group-title="KingTV", GMA Heart of Asia
-https://nokotan.anhkz.fr/channel/n13585467/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
+
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="KingTV", SONY MAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1618,6 +1616,26 @@ http://live-atv-cdn.izzigo.tv/4/out/u/dash/GOLDEN-MULTIPLEX/manifest.mpd
 
 ###### PREMIUM SPORTS ######
 
+#EXTINF:-1 group-title="KINGTV CHANNELS" tvg-id="TNTSport1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-name="TNT Sports 1",TNT Sports 1
+http://159.100.22.120:7860/proxy?url=https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 group-title="KINGTV CHANNELS" tvg-id="TNTSport2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" tvg-name="TNT Sports 2",TNT Sports 2
+http://159.100.22.120:7860/proxy?url=https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 group-title="KINGTV CHANNELS" tvg-id="TNTSport3.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" tvg-name="TNT Sports 3",TNT Sports 3
+http://159.100.22.120:7860/proxy?url=https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
+
+#EXTINF:-1 group-title="KINGTV CHANNELS" tvg-id="TNTSport4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" tvg-name="TNT Sports 4",TNT Sports 4
+http://159.100.22.120:7860/proxy?url=https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
+
+#EXTINF:-1 group-title="NBA LEAGUE PASS" tvg-id="NBC.Sports.Bay.Area.us" tvg-logo="https://i.imghippo.com/files/MKi3692Aw.jpg" tvg-name="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://159.100.22.120:7860/proxy?url=https://windnew.newkso.ru/wind/premium753/mono.m3u8
+
+#EXTINF:-1 group-title="ESPN" tvg-id="NBC.Sports.Bay.Area.us" tvg-logo="https://i.imghippo.com/files/qlZ1057JlQ.jpg" tvg-name="ESPN",ESPN
+http://supersonictv.live:8080/live/Jacq/Carr8476/83043.m3u8
+
+#EXTINF:-1 group-title="NBA LEAGUE PASS" tvg-id="NBC.Sports.Bay.Area.us" tvg-logo="https://i.imghippo.com/files/MKi3692Aw.jpg" tvg-name="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/86042.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
