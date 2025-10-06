@@ -5,21 +5,6 @@ M3U billed-msg="M3U PLAYLIST BY: KINGTV"
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
-#EXTINF:-1 tvg-id="KINGTV" tvg-name="SONY PIX HD" tvg-logo="https://i.imghippo.com/files/cvoo8807zNw.jpg" group-title="KINGTV CHANNELS",SONY PIX HD
-http://supersonictv.live:8080/611366/682256/22879
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/b/b0/Heart_of_Asia_2D_Logo_2020.png" group-title="KIng",HEART OF ASIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2a7b8c1d9f0e3a4b5c6d7e8f1a2b3c4:0f1e2d3c4b5a60798877665544332211
-https://kaotv.ganbaruby23.xyz/dash/heartofasia/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" group-title="King",I HEART MOVIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abba271e8bcf552bbd2e86a434a9a5d9:69eaa802a6763af979e8d1940fb88392
-https://kaotv.ganbaruby23.xyz/dash/iheartmovies/manifest.mpd
-
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
-
 #EXTINF:-1 group-title="NBA LEAGUE PASS" tvg-id="NBC.Sports.Bay.Area.us" tvg-logo="https://i.imghippo.com/files/MKi3692Aw.jpg" tvg-name="NBA LEAGUE PASS",NBA LEAGUE PASS
 http://159.100.22.120:7860/proxy?url=https://windnew.newkso.ru/wind/premium753/mono.m3u8
 
@@ -28,54 +13,6 @@ http://supersonictv.live:8080/live/Jacq/Carr8476/83043.m3u8
 
 #EXTINF:-1 group-title="NBA LEAGUE PASS" tvg-id="NBC.Sports.Bay.Area.us" tvg-logo="https://i.imghippo.com/files/MKi3692Aw.jpg" tvg-name="NBA LEAGUE PASS",NBA LEAGUE PASS
 http://supersonictv.live:8080/live/Jacq/Carr8476/86042.m3u8
-
-#EXTINF:-1 tvg-id="US: 5 STARMAX" tvg-name="CINEMAX 5 STARMAX UHD" group-title="MOVIE CHANNELS📺",CINEMAX 5 STARMAX UHD
-http://supersonictv.live:8080/611366/682256/22878
-#EXTINF:-1 tvg-id="US: CINEMAX WEST" tvg-name="Cinemax West UHD" group-title="MOVIE CHANNELS📺",Cinemax UHD1
-http://supersonictv.live:8080/611366/682256/22879
-#EXTINF:-1 tvg-id="US: CINEMAX WEST" tvg-name="Cinemax West UHD" group-title="MOVIE CHANNELS📺",Cinemax UHD2
-http://supersonictv.live:8080/611366/682256/22880
-#EXTINF:-1 tvg-id="US: ACTIONMAX EAST" tvg-name="CINEMAX ACTIONMAX UHD" group-title="MOVIE CHANNELS📺",CINEMAX ACTIONMAX UHD
-http://supersonictv.live:8080/611366/682256/22881
-#EXTINF:-1 tvg-id="US: MOREMAX EAST" tvg-name="CINEMAX MORE MAX UHD" group-title="MOVIE CHANNELS📺",CINEMAX MORE MAX UHD
-http://supersonictv.live:8080/611366/682256/22882
-#EXTINF:-1 tvg-id="US: FX EAST" tvg-name="USA FX East UHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FX 1
-http://supersonictv.live:8080/611366/682256/22091
-#EXTINF:-1 tvg-id="US: FX WEST" tvg-name="USA FX West LHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FX 2
-http://supersonictv.live:8080/611366/682256/22092
-#EXTINF:-1 tvg-id="US: FXM" tvg-name="USA FXM UHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXM UHD
-http://supersonictv.live:8080/611366/682256/22093
-#EXTINF:-1 tvg-id="US: FXX EAST" tvg-name="USA FXX East UHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXX UHD
-http://supersonictv.live:8080/611366/682256/22094
-#EXTINF:-1 tvg-id="US: FXX WEST" tvg-name="USA FXX West LHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXX UHD
-http://supersonictv.live:8080/611366/682256/22095
-#EXTINF:-1 group-title="MOVIE CHANNELS📺",HOLLYWOOD MOVIES
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="US: MOVIEPLEX EAST" tvg-name="MOVIEPLEX  HD" group-title="MOVIE CHANNELS📺",MOVIEPLEX  HD
-#EXTINF:-1 group-title="MOVIE CHANNELS📺",MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="US: STARZ EAST" tvg-name="StarZ East UHD" group-title="MOVIE CHANNELS📺",StarZ 1
-http://supersonictv.live:8080/611366/682256/22918
-#EXTINF:-1 tvg-id="US: STARZ WEST" tvg-name="Starz West UHD" group-title="MOVIE CHANNELS📺",Starz 2
-http://supersonictv.live:8080/611366/682256/22919
-#EXTINF:-1 tvg-id="US: STARZ CINEMA" tvg-name="Starz Cinema UHD" group-title="MOVIE CHANNELS📺",Starz Cinema UHD
-http://supersonictv.live:8080/611366/682256/22920
-#EXTINF:-1 tvg-id="US: STARZ EDGE" tvg-name="Starz Edge UHD" group-title="MOVIE CHANNELS📺",Starz Edge UHD
-http://supersonictv.live:8080/611366/682256/22922
-#EXTINF:-1 tvg-id="US: STARZ IN BLACK" tvg-name="Starz in Black UHD" group-title="MOVIE CHANNELS📺",Starz in Black UHD
-http://supersonictv.live:8080/611366/682256/22923
-#EXTINF:-1 tvg-id="US: STARZ KIDS AND FAMILY" tvg-name="Starz Kids & Family UHD" group-title="MOVIE CHANNELS📺",Starz Kids & Family UHD
-http://supersonictv.live:8080/611366/682256/22924
-#EXTINF:-1 tvg-id="US: STARZ WEST" tvg-name="Starz Encore West UHD" group-title="MOVIE CHANNELS📺",Starz Encore
-http://supersonictv.live:8080/611366/682256/22926
-#EXTINF:-1 tvg-id="US: STARZENCORE ACTION" tvg-name="Starz Encore Action UHD" group-title="MOVIE CHANNELS📺",Starz Encore Action UHD
-http://supersonictv.live:8080/611366/682256/22927
-#EXTINF:-1 tvg-id="US: STARZENCORE CLASSIC" tvg-name="Starz Encore Classic UHD" group-title="MOVIE CHANNELS📺",Starz Encore Classic UHD
-http://supersonictv.live:8080/611366/682256/22929
-#EXTINF:-1 tvg-id="US: STARZENCORE FAMILY" tvg-name="Starz Encore Family UHD" group-title="MOVIE CHANNELS📺",Starz Encore Family UHD
-http://supersonictv.live:8080/611366/682256/22930
-#EXTINF:-1 tvg-id="US: STARZENCORE SUSPENSE" tvg-name="Starz Encore Suspense UHD" group-title="MOVIE CHANNELS📺",Starz Encore Suspense UHD
-http://supersonictv.live:8080/611366/682256/22931
 
 
 **********KINGTV V3 CHANNELS**********
@@ -88,6 +25,16 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:79:d3:51&stream=440660&extens
 
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-name="AsianBox" tvg-logo="https://i.imghippo.com/files/AUzN6933aG.jpg" group-title="KINGTV CHANNELS",AsianBox
 https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/b/b0/Heart_of_Asia_2D_Logo_2020.png" group-title="KIng",HEART OF ASIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a7b8c1d9f0e3a4b5c6d7e8f1a2b3c4:0f1e2d3c4b5a60798877665544332211
+https://kaotv.ganbaruby23.xyz/dash/heartofasia/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" group-title="King",I HEART MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abba271e8bcf552bbd2e86a434a9a5d9:69eaa802a6763af979e8d1940fb88392
+https://kaotv.ganbaruby23.xyz/dash/iheartmovies/manifest.mpd
 
 #EXTINF:-1 group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg"
 
@@ -1993,3 +1940,52 @@ http://nocable.cc:8080/5AGbfz/324331/47442
 http://nocable.cc:8080/5AGbfz/324331/47444
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 5" tvg-logo="https://i.imghippo.com/files/MURR2119sKk.jpg" group-title="KINGTV CHANNELS",TSN 5
 http://nocable.cc:8080/5AGbfz/324331/47446
+#EXTINF:-1 tvg-id="US: 5 STARMAX" tvg-name="CINEMAX 5 STARMAX UHD" group-title="MOVIE CHANNELS📺",CINEMAX 5 STARMAX UHD
+http://supersonictv.live:8080/611366/682256/22878
+#EXTINF:-1 tvg-id="US: CINEMAX WEST" tvg-name="Cinemax West UHD" group-title="MOVIE CHANNELS📺",Cinemax UHD1
+http://supersonictv.live:8080/611366/682256/22879
+#EXTINF:-1 tvg-id="US: CINEMAX WEST" tvg-name="Cinemax West UHD" group-title="MOVIE CHANNELS📺",Cinemax UHD2
+http://supersonictv.live:8080/611366/682256/22880
+#EXTINF:-1 tvg-id="US: ACTIONMAX EAST" tvg-name="CINEMAX ACTIONMAX UHD" group-title="MOVIE CHANNELS📺",CINEMAX ACTIONMAX UHD
+http://supersonictv.live:8080/611366/682256/22881
+#EXTINF:-1 tvg-id="US: MOREMAX EAST" tvg-name="CINEMAX MORE MAX UHD" group-title="MOVIE CHANNELS📺",CINEMAX MORE MAX UHD
+http://supersonictv.live:8080/611366/682256/22882
+#EXTINF:-1 tvg-id="US: FX EAST" tvg-name="USA FX East UHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FX 1
+http://supersonictv.live:8080/611366/682256/22091
+#EXTINF:-1 tvg-id="US: FX WEST" tvg-name="USA FX West LHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FX 2
+http://supersonictv.live:8080/611366/682256/22092
+#EXTINF:-1 tvg-id="US: FXM" tvg-name="USA FXM UHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXM UHD
+http://supersonictv.live:8080/611366/682256/22093
+#EXTINF:-1 tvg-id="US: FXX EAST" tvg-name="USA FXX East UHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXX UHD
+http://supersonictv.live:8080/611366/682256/22094
+#EXTINF:-1 tvg-id="US: FXX WEST" tvg-name="USA FXX West LHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXX UHD
+http://supersonictv.live:8080/611366/682256/22095
+#EXTINF:-1 group-title="MOVIE CHANNELS📺",HOLLYWOOD MOVIES
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="US: MOVIEPLEX EAST" tvg-name="MOVIEPLEX  HD" group-title="MOVIE CHANNELS📺",MOVIEPLEX  HD
+#EXTINF:-1 group-title="MOVIE CHANNELS📺",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="US: STARZ EAST" tvg-name="StarZ East UHD" group-title="MOVIE CHANNELS📺",StarZ 1
+http://supersonictv.live:8080/611366/682256/22918
+#EXTINF:-1 tvg-id="US: STARZ WEST" tvg-name="Starz West UHD" group-title="MOVIE CHANNELS📺",Starz 2
+http://supersonictv.live:8080/611366/682256/22919
+#EXTINF:-1 tvg-id="US: STARZ CINEMA" tvg-name="Starz Cinema UHD" group-title="MOVIE CHANNELS📺",Starz Cinema UHD
+http://supersonictv.live:8080/611366/682256/22920
+#EXTINF:-1 tvg-id="US: STARZ EDGE" tvg-name="Starz Edge UHD" group-title="MOVIE CHANNELS📺",Starz Edge UHD
+http://supersonictv.live:8080/611366/682256/22922
+#EXTINF:-1 tvg-id="US: STARZ IN BLACK" tvg-name="Starz in Black UHD" group-title="MOVIE CHANNELS📺",Starz in Black UHD
+http://supersonictv.live:8080/611366/682256/22923
+#EXTINF:-1 tvg-id="US: STARZ KIDS AND FAMILY" tvg-name="Starz Kids & Family UHD" group-title="MOVIE CHANNELS📺",Starz Kids & Family UHD
+http://supersonictv.live:8080/611366/682256/22924
+#EXTINF:-1 tvg-id="US: STARZ WEST" tvg-name="Starz Encore West UHD" group-title="MOVIE CHANNELS📺",Starz Encore
+http://supersonictv.live:8080/611366/682256/22926
+#EXTINF:-1 tvg-id="US: STARZENCORE ACTION" tvg-name="Starz Encore Action UHD" group-title="MOVIE CHANNELS📺",Starz Encore Action UHD
+http://supersonictv.live:8080/611366/682256/22927
+#EXTINF:-1 tvg-id="US: STARZENCORE CLASSIC" tvg-name="Starz Encore Classic UHD" group-title="MOVIE CHANNELS📺",Starz Encore Classic UHD
+http://supersonictv.live:8080/611366/682256/22929
+#EXTINF:-1 tvg-id="US: STARZENCORE FAMILY" tvg-name="Starz Encore Family UHD" group-title="MOVIE CHANNELS📺",Starz Encore Family UHD
+http://supersonictv.live:8080/611366/682256/22930
+#EXTINF:-1 tvg-id="US: STARZENCORE SUSPENSE" tvg-name="Starz Encore Suspense UHD" group-title="MOVIE CHANNELS📺",Starz Encore Suspense UHD
+http://supersonictv.live:8080/611366/682256/22931
+#EXTINF:-1 tvg-id="KINGTV" tvg-name="SONY PIX HD" tvg-logo="https://i.imghippo.com/files/cvoo8807zNw.jpg" group-title="KINGTV CHANNELS",SONY PIX HD
+http://supersonictv.live:8080/611366/682256/22879
