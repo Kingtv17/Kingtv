@@ -1989,10 +1989,3 @@ http://supersonictv.live:8080/611366/682256/22930
 http://supersonictv.live:8080/611366/682256/22931
 #EXTINF:-1 tvg-id="KINGTV" tvg-name="SONY PIX HD" tvg-logo="https://i.imghippo.com/files/cvoo8807zNw.jpg" group-title="KINGTV CHANNELS",SONY PIX HD
 http://supersonictv.live:8080/611366/682256/22879
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2a7b8c1d9f0e3a4b5c6d7e8f1a2b3c4:0f1e2d3c4b5a60798877665544332211
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png",i heart movie
-https://kaotv.ganbaruby23.xyz/dash/iheartmovies/manifest.mpd
-
